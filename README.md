@@ -13,7 +13,7 @@
 编译方法：<br> 
   For桌面linux系统（或者任何有自编译工具链的系统），<br> 
   &ensp; apt install make gcc <br>
-  &ensp; git clone https://github.com/25125000960/zzu-minieap.git <br> 
+  &ensp; git clone https://github.com/2512500960/zzu-minieap.git <br> 
   &ensp; cd zzu-minieap <br> 
   &ensp; make <br> 
   &ensp; chmod 777 minieap <br> 
